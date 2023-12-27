@@ -1,0 +1,20 @@
+{
+  "name": "s03e03-bookshelf-a-benji",
+  "version": "1.0.0",
+  "description": "Best bookshelf in town",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bookshelf",
+    "litterature",
+    "js",
+    "nodejs"
+  ],
+  "author": "Hadi",
+  "license": "ISC",
+  "dependencies": {
+    "dayjs": "^1.11.9"
+  }
+}
